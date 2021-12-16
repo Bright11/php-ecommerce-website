@@ -1,0 +1,26 @@
+.mycontainer{
+text-align: center;
+letter-spacing: 2px;
+font-size: 20px;
+font-weight: 30px;
+}
+#sidebar{
+height: 100%;
+}
+#sidebar .list-group button{
+letter-spacing: 2px;
+font-size: 20px;
+font-weight: 30px;
+
+}
+#sidebar .list-group a{
+text-decoration: none;
+color: black;
+}
+#sidebar .list-group button:hover{
+	background: blue;
+	color: white !important;
+}
+#maincontent{
+height: 100%;
+}
